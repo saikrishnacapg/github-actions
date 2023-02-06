@@ -1,0 +1,4 @@
+steps:
+  - command: "Echo \"Hello world\""
+  - wait
+  - command: "Echo \"Ending Pipeline\""
